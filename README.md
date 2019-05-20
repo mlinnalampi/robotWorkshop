@@ -28,8 +28,8 @@ Install Chrome and/or Firefox webdriver (make sure you have also the correspondi
 
 1. MacOS "Darwin" using homebrew
 ```
-# chrome
-brew install chromedriver
+# chrome, this needs to be installed from Homebrew casks
+brew cask install chromedriver
 
 # firefox
 brew install geckodriver
